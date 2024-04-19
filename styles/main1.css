@@ -1,0 +1,57 @@
+﻿style {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    font-size: larger;
+    position: fixed;
+    color: cornsilk;
+}
+
+th, td {
+    /* TOP RIGHT BOTTOM LEFT*/
+    padding: 7px 10px 10px 10px;
+}
+
+th {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border-bottom: 2px solid #000000;
+    border-top: 2px solid #000000;
+    text-align: center;
+}
+
+#top-header {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: xx-large;
+    font-weight: bold;
+    border: 2px solid #000000;
+    height: 30px;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+}
+
+tr {
+    width: 100%;
+    height: 200%;
+}
+
+td {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    font-weight: bold;
+    border-bottom: 2px solid #000000;
+    border-left: 2px solid #000000;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
